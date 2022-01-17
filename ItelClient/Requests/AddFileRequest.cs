@@ -30,6 +30,11 @@ namespace VTPRequest.Request.API8
                 AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Deflate,
             };
 
+            handler.ServerCertificateCustomValidationCallback =(httpRequestMessage, cert, cetChain, policyErrors) =>
+    {
+        return true;
+    };
+
             _client = new HttpClient(handler);
 
             _client.DefaultRequestHeaders.Accept.ParseAdd("*/*");

@@ -27,6 +27,11 @@ namespace ItelClient
                 AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Deflate,
             };
 
+            handler.ServerCertificateCustomValidationCallback = (httpRequestMessage, cert, cetChain, policyErrors) =>
+            {
+                return true;
+            };
+
             _client = new HttpClient(handler);
 
             //_client.DefaultRequestHeaders.Accept.ParseAdd("application/json");
@@ -44,7 +49,7 @@ namespace ItelClient
 
             _requestBody = JObject.FromObject(new {
                 client_session = "IOS_iphone11_ios14.8.1_Device_1.0.2_10EED676-7E17-49B3-A980-7971717FA2F6_1641628083",
-                type = -1,
+                type = "-1",
                 crop_param = "0.18,0.53",
                 token,
                 img = imgHash,
