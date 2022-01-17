@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\ItelClient\ItelClient\bin\Debug\ItelClient.exe.config
+C:\Users\Dell\source\repos\ItelClient\ItelClient\bin\Debug\ItelClient.exe
+C:\Users\Dell\source\repos\ItelClient\ItelClient\bin\Debug\ItelClient.pdb
+C:\Users\Dell\source\repos\ItelClient\ItelClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\ItelClient\ItelClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\ItelClient\ItelClient\obj\Debug\ItelClient.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ItelClient\ItelClient\obj\Debug\ItelClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\ItelClient\ItelClient\obj\Debug\ItelClient.Properties.Resources.resources
+C:\Users\Dell\source\repos\ItelClient\ItelClient\obj\Debug\ItelClient.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ItelClient\ItelClient\obj\Debug\ItelClient.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ItelClient\ItelClient\obj\Debug\ItelClient.csproj.CopyComplete
+C:\Users\Dell\source\repos\ItelClient\ItelClient\obj\Debug\ItelClient.exe
+C:\Users\Dell\source\repos\ItelClient\ItelClient\obj\Debug\ItelClient.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fa78265-498b-42e3-925e-fc3e9af3512b": {
+      "ProjectGuid": "3fa78265-498b-42e3-925e-fc3e9af3512b",
+      "DisplayName": "ItelClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
